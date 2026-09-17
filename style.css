@@ -293,6 +293,9 @@ footer {
     margin-top: 40px;
 }
 
+
+
+
 @media (max-width: 900px) {
     .employee-container {
         grid-template-columns: repeat(2, 1fr);
